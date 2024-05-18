@@ -1,5 +1,5 @@
 import cv2
-cap=cv2.VideoCapture("Resources/vid1.mp4")
+cap=cv2.VideoCapture("../Resources/vid1.mp4")
 
 
 while True:
