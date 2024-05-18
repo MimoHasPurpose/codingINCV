@@ -1,0 +1,18 @@
+
+Topics:
+1. Read images videos and webcams
+2. basic functions
+3. resizing and cropping
+4. shapes and text
+5. wrap prespective
+6. Joining images
+7. color detection
+8. contour /detection
+9. face detection
+
+
+
+Projects:
+1. virtual paint.
+2. paper scanner.
+3. number plate detector.
