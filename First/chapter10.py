@@ -42,6 +42,7 @@ def getContours(img):
         a=a+1
         if area>500:
             cv2.drawContours(imgContour, cnt, -1, (255, 0, 0), 3)
+            # finding curve length
             peri=cv2.arcLength(cnt,True)
             print(b,peri)
             b=b+1
