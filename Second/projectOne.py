@@ -15,7 +15,8 @@ myColors=[[5,107,0,19,255,255],
 
 myColorValues=[[51,153,255],
                 [255,0,255],
-                [0,255,0]]
+                [0,255,0],
+               [255,0,0]]
 myPoints=[]  #[x,y,colorId]
 
 def findColor(img,myColors,myColorValues):
