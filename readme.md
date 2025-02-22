@@ -26,3 +26,15 @@ I am focussing on making complete projects that are deployed and used in real wo
     - Yolo
     - ultralytics
     - Roboflow
+
+*_TASK_*
+* deploy end to end cv project
+* make path tracking project.
+* tumour detection
+* Emotion recognition
+* Expression prediction
+
+
+
+*_Thoughts_*
+if we are able to predict next word, can we predict next facial recognition.
