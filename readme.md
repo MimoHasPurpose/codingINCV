@@ -10,10 +10,11 @@
 - It is fascinating to see a machine able to do 'tasks' which seem impossible.
 - Well I think humans are lazy and if I can make a machine do critical stuff then we don't have to rely on humans.
     - critical stuff includes:
+        - finding pathogens in microscopic images
         - disease detection
         - finding criminals
         - collecting evidence
-        - monitoring kids in nurseries.
+        - monitoring kids in nurseries
 
 
 
@@ -37,4 +38,4 @@ I am focussing on making complete projects that are deployed and used in real wo
 
 
 *_Thoughts_*
-if we are able to predict next word, can we predict next facial recognition.
+* if we are able to predict next word, can we predict next facial recognition.
