@@ -27,7 +27,7 @@ I am focussing on making complete projects that are deployed and used in real wo
     - openCV
     - Yolo
     - ultralytics
-    - Roboflow
+    - *_Roboflow_*
 
 ***_TASK_***
 * sickle cell anaemia detector
