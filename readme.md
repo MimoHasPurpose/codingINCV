@@ -15,6 +15,7 @@
         - finding criminals
         - collecting evidence
         - monitoring kids in nurseries
+        - finding human errors
 
 
 
@@ -28,14 +29,15 @@ I am focussing on making complete projects that are deployed and used in real wo
     - ultralytics
     - Roboflow
 
-*_TASK_*
+***_TASK_***
+* sickle cell anaemia detector
 * deploy end to end cv project
-* make path tracking project.
+* make path tracking project
 * tumour detection
 * Emotion recognition
 * Expression prediction
 
 
 
-*_Thoughts_*
+***_Thoughts_***
 * if we are able to predict next word, can we predict next facial recognition.
