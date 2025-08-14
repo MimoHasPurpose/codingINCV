@@ -9,15 +9,27 @@ import numpy as np
 def resizee(img):
     res = cv.resize(img,None,fx=0.5, fy=0.5, interpolation = cv.INTER_CUBIC)
     cv.imshow("image resized: ", res)
-
+    cv.waitKey(0)
 
 
 img=cv.imread("./obs/hackerdog.jpg")
+
+
+b,g,r=cv.split(img)
+
+# resizee(b)
+imblend()
+
+
+
 # resizee(img)
 
-resizee(img)0
-cv.waitKey(0)
 
+
+# resizee(img)
+
+
+# print(img.shape, img.size, img.dtype)
 
 
 
