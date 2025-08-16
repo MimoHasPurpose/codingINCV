@@ -2,6 +2,7 @@ import numpy as np
 import cv2 as cv
 cap=cv.VideoCapture('./obs/americanf.mp4')
 
+# processing on frames.
 def processing(frame):
     ans=cv.resize(frame,(700,700))
     ans=cv.Canny(ans,100,100)
@@ -10,7 +11,9 @@ def processing(frame):
 
 while cap.isOpened():
     ret, frame=cap.read()
+    # frame processing
     ans=processing(frame)
+
     cv.imshow('video ',ans)
     if cv.waitKey(1)==ord('q'):
         break
