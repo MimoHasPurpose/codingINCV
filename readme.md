@@ -39,5 +39,3 @@ I am focussing on making complete projects that are deployed and used in real wo
 
 
 
-***_Thoughts_***
-* if we are able to predict next word, can we predict next facial recognition.
