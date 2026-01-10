@@ -1,8 +1,10 @@
 # algorithm for homography
 # SIFT_create()
 # FlannBasedMatcher
-# knnMatch
+# knnMatch()
 # store good matches as per lowe's ratio test.
+# findHomography()
+# drawMatches()
 
 import numpy as np
 import cv2 as cv
